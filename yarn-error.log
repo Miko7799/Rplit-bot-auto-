@@ -14,7 +14,7 @@ Platform:
   android arm64
 
 Trace: 
-  Error: EACCES: permission denied, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/Download/naze-md/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+  Error: EACCES: permission denied, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/DCIM/naze-md-main/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
 
 npm manifest: 
   {
